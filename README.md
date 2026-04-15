@@ -1,16 +1,27 @@
-## Hi there 👋
+# Bernardo Eugster
 
-<!--
-**bernardoeugster/bernardoeugster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student at ETH Zürich with a strong interest in embedded systems, electronics, robotics, and real-world engineering projects.
 
-Here are some ideas to get you started:
+I like building and repairing technical systems, especially where hardware and software meet. My projects usually involve practical troubleshooting, prototyping, component-level work, and clear technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Embedded systems
+- Electronics and hardware/software integration
+- Practical troubleshooting and repair
+- Robotics and autonomous systems
+
+## Selected work
+
+### Sony WH-1000XM4 ANC Repair
+Diagnosis and repair of ANC squealing in Sony WH-1000XM4 headphones.  
+Focused on fault isolation, datasheet-based component selection, precision soldering, and technical documentation.
+
+## Currently working on
+
+- ESP32-based security camera with Telegram bot functionality
+- Non-invasive doorbell detection and relay system using ESP32 nodes
+
+## How I like to work
+
+I enjoy projects that combine theory with hands-on implementation. That includes debugging, soldering, testing, documenting, and improving systems iteratively until they work reliably.
