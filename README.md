@@ -13,8 +13,7 @@ I like building and repairing technical systems, especially where hardware and s
 
 ## 🔧 Selected work 
 
-- [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair)  
-  Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones. Focused on fault isolation, datasheet-based component selection, precision soldering, and technical documentation.
+- [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair): Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones. Focused on fault isolation, datasheet-based component selection, precision soldering, and technical documentation.
 
 ## 🚧 Currently working on
 
