@@ -1,25 +1,62 @@
 # Bernardo Eugster
 
-Electrical Engineering student at ETH Zürich with a strong interest in embedded systems, electronics, robotics, and real-world engineering projects.
+Electrical Engineering student at ETH Zürich interested in embedded systems, electronics, robotics, and real-world engineering projects.
 
-I like building and repairing technical systems, especially where hardware and software meet. My projects usually involve practical troubleshooting, prototyping, component-level work, and clear technical documentation.
+I like building and improving technical systems where theory meets hands-on work — especially troubleshooting, prototyping, repair, and hardware/software integration.
 
-## ⚡ Current focus
+## ⚡ Focus
 
 - Embedded systems
-- Electronics and hardware/software integration
-- Practical troubleshooting and repair
-- Robotics and autonomous systems
+- Electronics
+- Hardware/software integration
+- Troubleshooting and repair
+- Prototyping
 
-## 🔧 Selected work 
+## 🔧 Selected Work
 
-- [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair): Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones. Focused on fault isolation, datasheet-based component selection, precision soldering, and technical documentation.
+### [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair)
+Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
 
-## 🚧 Currently working on
+<details>
+<summary>What this project demonstrates</summary>
 
-- ESP32-based security camera with Telegram bot functionality
-- Non-invasive doorbell detection and relay system using ESP32 nodes
+- structured fault diagnosis
+- datasheet-based component selection
+- precision soldering
+- technical documentation
+- practical troubleshooting in a mixed analog-digital consumer system
 
-## How I like to work
+</details>
 
-I enjoy projects that combine theory with hands-on implementation. That includes debugging, soldering, testing, documenting, and improving systems iteratively until they work reliably.
+## 🚧 Currently Building
+
+### ESP32 Security Camera
+Battery-powered ESP32-CAM monitoring system with Telegram bot functionality.
+
+<details>
+<summary>Current direction</summary>
+
+- remote image capture and alerting
+- Telegram-based control
+- power-aware operation
+- documentation and hardware integration in progress
+
+</details>
+
+### Retrofit Doorbell Detection Network
+Non-invasive doorbell detection and relay system using ESP32 nodes.
+
+<details>
+<summary>Current direction</summary>
+
+- vibration-based doorbell detection
+- distributed ESP32 relay nodes
+- practical system integration into an existing setup
+- prototyping and refinement in progress
+
+</details>
+
+## How I Work
+
+I enjoy projects that combine structured engineering thinking with practical implementation.  
+That usually means debugging, testing, iterating, documenting, and improving systems until they work reliably.
