@@ -28,7 +28,7 @@ Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
 
 </details>
 
-## 🚧 Currently Building
+## Currently Building
 
 ### ESP32 Security Camera
 Battery-powered ESP32-CAM monitoring system with Telegram bot functionality.
@@ -56,7 +56,7 @@ Non-invasive doorbell detection and relay system using ESP32 nodes.
 
 </details>
 
-## How I Work
+## 👷 How I Work
 
 I enjoy projects that combine structured engineering thinking with practical implementation.  
 That usually means debugging, testing, iterating, documenting, and improving systems until they work reliably.
