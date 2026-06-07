@@ -15,23 +15,7 @@ I enjoy building technical systems where software, hardware, mechanics, and prac
 
 ## 🔧 Selected Work
 
-### [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair)
-
-Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
-
-<details>
-<summary>What this project demonstrates</summary>
-
-- structured fault diagnosis
-- datasheet-based component selection
-- precision soldering
-- technical documentation
-- practical troubleshooting in a mixed analog-digital consumer device
-- repair-oriented engineering instead of simple part replacement
-
-</details>
-
-### ESPSECCAM — ESP32-CAM Security Camera
+### [ESPSECCAM — ESP32-CAM Security Camera](https://github.com/bernardoeugster/espseccam)
 
 Battery-powered ESP32-CAM security camera with Telegram control, PIR motion detection, deep sleep, Wi-Fi setup portal, role-based access control, persistent configuration, and a custom 3D-printed enclosure.
 
@@ -49,6 +33,22 @@ Battery-powered ESP32-CAM security camera with Telegram control, PIR motion dete
 - stripboard-based hardware integration
 - 3D-printed enclosure design with Mark I, Mark II, and Mark III design iterations
 - practical engineering trade-offs between reliability, assembly effort, and available hardware
+
+</details>
+
+### [Sony WH-1000XM4 ANC Repair](https://github.com/bernardoeugster/sony-wh1000xm4-anc-repair)
+
+Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
+
+<details>
+<summary>What this project demonstrates</summary>
+
+- structured fault diagnosis
+- datasheet-based component selection
+- precision soldering
+- technical documentation
+- practical troubleshooting in a mixed analog-digital consumer device
+- repair-oriented engineering instead of simple part replacement
 
 </details>
 
