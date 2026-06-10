@@ -24,6 +24,7 @@ Battery-powered ESP32-CAM security camera with Telegram control, PIR motion dete
 
 - ESP32-CAM firmware development
 - Telegram bot integration for remote control and image delivery
+- multilingual Telegram user interface with English, German, and Spanish messages
 - PIR-based motion detection and wakeup from deep sleep
 - power-aware operation with scheduled online windows
 - runtime Wi-Fi and user configuration through a local setup portal
