@@ -77,3 +77,9 @@ I like projects that combine structured engineering thinking with hands-on imple
 That usually means understanding the problem, building a first prototype, testing it, finding weak points, improving the design, and documenting the result clearly.
 
 I am especially interested in embedded and system integration work where code, electronics, mechanical design, and real-world constraints all matter.
+
+## Contact
+
+Project-related questions are best handled through GitHub Issues.
+
+For professional contact, you can reach me on [LinkedIn](https://www.linkedin.com/in/bernardo-eugster-42aab3340/).
