@@ -55,19 +55,21 @@ Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
 
 ## Currently Building
 
-### Retrofit Doorbell Detection Network
+### Telegram-Controlled Doorbell Receiver
 
-Non-invasive doorbell detection and relay system using ESP32 nodes.
+ESP32-based retrofit doorbell receiver that waits for Telegram messages and triggers an indoor speaker when a doorbell command is received.
 
 <details>
 <summary>Current direction</summary>
-
-- vibration-based doorbell detection
-- distributed ESP32 communication
-- indoor receiver with audio output
-- Telegram notification support
-- practical integration into an existing home setup
-- sensitivity tuning and reliability improvements
+  
+- ESP32 Telegram bot integration
+- remote doorbell triggering through a custom Telegram interface
+- indoor audio output using an I2S amplifier and speaker
+- configurable volume and doorbell melodies
+- embedded firmware design for a practical home retrofit system
+- decision-making under real reliability constraints
+- replacement of an unreliable sender-based approach with a simpler receiver-only architecture
+- iterative debugging of networking, command handling, audio playback, and enclosure/acoustic design
 
 </details>
 
