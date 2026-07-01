@@ -1,6 +1,6 @@
 # Bernardo Eugster
 
-Electrical Engineering student at ETH Zürich with a strong interest in embedded systems, electronics, robotics, and real-world engineering projects.
+Electrical Engineering student at ETH Zurich with a strong interest in embedded systems, electronics, robotics, and real-world engineering projects.
 
 I enjoy building technical systems where software, hardware, mechanics, and practical constraints meet. My projects usually involve debugging, prototyping, soldering, repair, documentation, and iterative improvement until a system works reliably in a real environment.
 
@@ -12,12 +12,38 @@ I enjoy building technical systems where software, hardware, mechanics, and prac
 - Low-power systems
 - Prototyping and repair
 - Practical system integration
+- Technical documentation of real engineering decisions
 
 ## 🔧 Selected Work
 
-### [ESPSECCAM — ESP32-CAM Security Camera](https://github.com/bernardoeugster/espseccam)
+### [TeleBell - ESP32 Telegram Doorbell Receiver](https://github.com/bernardoeugster/TeleBell)
 
-Battery-powered ESP32-CAM security camera with Telegram control, PIR motion detection, deep sleep, Wi-Fi setup portal, role-based access control, persistent configuration, and a custom 3D-printed enclosure.
+ESP32-based indoor doorbell receiver with Telegram control, role-based access, Wi-Fi setup portal, persistent configuration, WAV voice prompts, presence mode, and I2S audio output through a MAX98357A amplifier and speaker.
+
+<details>
+<summary>What this project demonstrates</summary>
+
+- ESP32 firmware development for a practical home retrofit system
+- Telegram bot integration with reply-keyboard menus
+- remote doorbell triggering through a custom Telegram interface
+- role-based access control with owner, admin, user, and unknown-user handling
+- invite-based onboarding and pending access requests
+- anti-spam protection with cooldowns and escalating timeouts
+- configurable volume, repeat count, mute state, and doorbell melodies
+- multilingual Telegram interface with English, German, and Spanish messages
+- local Wi-Fi setup portal for configuration and recovery
+- persistent configuration storage using ESP32 Preferences/NVS and LittleFS
+- WAV voice prompts and optional presence-simulation audio
+- I2S audio output using a MAX98357A amplifier and 4 ohm speaker
+- 3D-printed enclosure design with mechanical and acoustic considerations
+- replacement of an unreliable vibration-sender concept with a simpler receiver-only architecture
+- reliability-driven engineering decisions under real deployment constraints
+
+</details>
+
+### [ESPSECCAM - ESP32-CAM Security Camera](https://github.com/bernardoeugster/espseccam)
+
+Battery-powered ESP32-CAM security camera with Telegram control, PIR motion detection, deep sleep, Wi-Fi setup portal, role-based access control, persistent configuration, sunrise/sunset-based flash control, and a custom 3D-printed enclosure.
 
 <details>
 <summary>What this project demonstrates</summary>
@@ -53,30 +79,11 @@ Diagnosis and repair of unstable ANC behavior in Sony WH-1000XM4 headphones.
 
 </details>
 
-## Currently Building
-
-### Telegram-Controlled Doorbell Receiver
-
-ESP32-based retrofit doorbell receiver that waits for Telegram messages and triggers an indoor speaker when a doorbell command is received.
-
-<details>
-<summary>Current direction</summary>
-  
-- ESP32 Telegram bot integration
-- remote doorbell triggering through a custom Telegram interface
-- indoor audio output using an I2S amplifier and speaker
-- configurable volume and doorbell melodies
-- embedded firmware design for a practical home retrofit system
-- decision-making under real reliability constraints
-- replacement of an unreliable sender-based approach with a simpler receiver-only architecture
-- iterative debugging of networking, command handling, audio playback, and enclosure/acoustic design
-
-</details>
-
 ## How I Work
 
-I like projects that combine structured engineering thinking with hands-on implementation.  
-That usually means understanding the problem, building a first prototype, testing it, finding weak points, improving the design, and documenting the result clearly.
+I like projects that combine structured engineering thinking with hands-on implementation.
+
+That usually means understanding the problem, building a first prototype, testing it, finding weak points, improving the design, and documenting the result clearly. I try to show not only the final result, but also the engineering decisions, failed approaches, trade-offs, and reliability improvements that led there.
 
 I am especially interested in embedded and system integration work where code, electronics, mechanical design, and real-world constraints all matter.
 
